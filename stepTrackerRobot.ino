@@ -1,4 +1,4 @@
-//Natalie Doehla, Student ID: 261029530
+
 
 #include <Arduino_LSM6DS3.h>
 #include <MadgwickAHRS.h>
